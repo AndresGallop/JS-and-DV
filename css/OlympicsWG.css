@@ -1,0 +1,83 @@
+body{
+	padding: 100px;
+    background-color: #E5E5E5;
+}
+
+*{
+	margin: 25px;
+}
+
+h1{
+	position: absolute;
+    width: 375px;
+    height: 30px;
+    left: 43px;
+    top: 58px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+}
+
+h2{
+	font-family: "Courier New", Courier, monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 5px;
+}
+
+img{
+    position: absolute;
+    width: 233px;
+    height: 63px;
+    left: 1004px;
+    top: 41px;
+}
+
+hr{
+	position: absolute;
+    width: 1235px;
+    height: 5px;
+    left: 25px;
+    top: 125px;
+}
+
+#first_container{
+	text-align: justify;
+	position: absolute;
+    width: 583px;
+    height: 324px;
+    left: 43px;
+    top: 147px;
+    background-color: white;
+
+}
+
+#second_container{
+	position: absolute;
+    width: 584px;
+    height: 324px;
+    left: 653px;
+    top: 147px;
+    background-color: white;
+}
+
+#third_container{
+	position: absolute;
+    width: 583px;
+    height: 324px;
+    left: 43px;
+    top: 488px;
+    background-color: white;
+}
+
+#fourth_container{
+	position: absolute;
+    width: 584px;
+    height: 324px;
+    left: 653px;
+    top: 488px;
+    background-color: white;
+}
