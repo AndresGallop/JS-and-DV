@@ -1,6 +1,6 @@
 body{
 	padding: 100px;
-    background-color: #E5E5E5;
+    background-color: #4C4C4C;
 }
 
 *{
@@ -18,29 +18,50 @@ h1{
     font-weight: normal;
     font-size: 26px;
     line-height: 30px;
+    color: white;
+}
+
+i{
+	position: absolute;
+    width: 375px;
+    height: 30px;
+    left: 43px;
+    top: 85px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+canvas{
+	max-height: 400px;
+	margin-left: -3px;
+
 }
 
 h2{
 	font-family: "Courier New", Courier, monospace;
-    font-style: normal;
-    font-weight: normal;
+    font-style: bold;
+    font-weight: bold;
     font-size: 26px;
     line-height: 5px;
 }
 
 img{
     position: absolute;
-    width: 233px;
-    height: 63px;
-    left: 1004px;
-    top: 41px;
+    width: 140px;
+    height: 60px;
+    left: 1098px;
+    top: 50px;
 }
 
 hr{
 	position: absolute;
-    width: 1235px;
+    width: 1192px;
     height: 5px;
-    left: 25px;
+    left: 43px;
     top: 125px;
 }
 
@@ -48,7 +69,7 @@ hr{
 	text-align: justify;
 	position: absolute;
     width: 583px;
-    height: 324px;
+    height: 400px;
     left: 43px;
     top: 147px;
     background-color: white;
@@ -58,7 +79,7 @@ hr{
 #second_container{
 	position: absolute;
     width: 584px;
-    height: 324px;
+    height: 400px;
     left: 653px;
     top: 147px;
     background-color: white;
@@ -67,17 +88,17 @@ hr{
 #third_container{
 	position: absolute;
     width: 583px;
-    height: 324px;
+    height: 400px;
     left: 43px;
-    top: 488px;
+    top: 564px;
     background-color: white;
 }
 
 #fourth_container{
 	position: absolute;
     width: 584px;
-    height: 324px;
+    height: 400px;
     left: 653px;
-    top: 488px;
+    top: 564px;
     background-color: white;
 }
